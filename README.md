@@ -28,6 +28,7 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 
 ## 📌 Featured Projects
 - 🔹 **Fit Nation** – Fit-Nation is a logic-driven fitness analyzer that cuts through the noise of the fitness industry to provide you with raw, honest, and actionable training advice    based on your current life constraints.
+  
   👉 **Status**: Completed!  
   👉 **Demo**: https://fit-nation-1.netlify.app/ 
 
