@@ -33,7 +33,8 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
   👉 **Demo**: https://fit-nation-1.netlify.app/ 
 
 - 🔹 **IntelliPath: AI-Based Career Recommendation & Dynamic Roadmap Generation System** – IntelliPath is a career guidance system that helps students discover suitable CSE job roles using simple, non-technical self-assessment questions.
-Based on user responses, it recommends a realistic domain (Development, AI/ML, Cloud, Cybersecurity, Blockchain, IoT) along with a personalized learning roadmap.  
+Based on user responses, it recommends a realistic domain (Development, AI/ML, Cloud, Cybersecurity, Blockchain, IoT) along with a personalized learning roadmap.
+
   👉 **Status**: In Progress!
 
 
