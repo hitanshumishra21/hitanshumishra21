@@ -42,7 +42,7 @@ Based on user responses, it recommends a realistic domain (Development, AI/ML, C
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/hitanshu-kumar-mishra-435563302  
-- Portfolio: https://hm-profile.netlify.app/  
+- Portfolio: https://hm-profile.vercel.app/  
 - Email: hitanshumishra2005@gmail.com
 
 ---
