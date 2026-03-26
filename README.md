@@ -24,7 +24,7 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 - Git, GitHub  
 - VS Code
 
-**Databases**
+ **Databases**
 - MongoDB, MySQL
 
 ---
