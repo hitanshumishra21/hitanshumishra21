@@ -27,6 +27,17 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 ---
 
 ## 📌 Featured Projects
+- 🔹 **AgriNova – AI Assisted Farming** –AgriNova is an AI-powered farming assistant that analyzes soil and environmental conditions to recommend the most suitable crops for cultivation. The system integrates machine learning models, weather intelligence, and real-time data processing to support data-driven agricultural decisions.
+  **Tech Stack**: Flask, Scikit-learn, XGBoost, JavaScript, PostgreSQL
+  
+  👉 **Status**: Ongoing!  
+  👉 **Demo**: https://agrinova-ai-farming-assistant.onrender.com 
+
+- 🔹 **Parking Management System** – A full-stack smart parking platform designed to manage vehicle entry, exit, and parking slot allocation in real time. The system provides efficient parking operations, dashboard reporting, and scalable slot management through a robust REST API architecture.
+  **Tech Stack**: MongoDB, Express.js, Node.js, JavaScript
+
+  👉 **Status**: In Progress!
+  
 - 🔹 **Fit Nation** – Fit-Nation is a logic-driven fitness analyzer that cuts through the noise of the fitness industry to provide you with raw, honest, and actionable training advice    based on your current life constraints.
   
   👉 **Status**: Completed!  
@@ -35,7 +46,7 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 - 🔹 **IntelliPath: AI-Based Career Recommendation & Dynamic Roadmap Generation System** – IntelliPath is a career guidance system that helps students discover suitable CSE job roles using simple, non-technical self-assessment questions.
 Based on user responses, it recommends a realistic domain (Development, AI/ML, Cloud, Cybersecurity, Blockchain, IoT) along with a personalized learning roadmap.
 
-  👉 **Status**: In Progress!
+  👉 **Status**: In Progress!  
 
 
 ---
