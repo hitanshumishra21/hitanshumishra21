@@ -41,7 +41,7 @@ I enjoy turning ideas into real-world projects and continuously improving my ski
 - 🔹 **Fit Nation** – Fit-Nation is a logic-driven fitness analyzer that cuts through the noise of the fitness industry to provide you with raw, honest, and actionable training advice    based on your current life constraints.
   
   👉 **Status**: Completed!  
-  👉 **Demo**: https://fit-nation-1.vercel.app/ 
+  👉 **Live**: https://fit-nation-1.vercel.app/ 
 
 - 🔹 **IntelliPath: AI-Based Career Recommendation & Dynamic Roadmap Generation System** – IntelliPath is a career guidance system that helps students discover suitable CSE job roles using simple, non-technical self-assessment questions.
 Based on user responses, it recommends a realistic domain (Development, AI/ML, Cloud, Cybersecurity, Blockchain, IoT) along with a personalized learning roadmap.
