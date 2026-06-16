@@ -1,6 +1,6 @@
 # Hi, I'm Hitanshu Kumar Mishra 👋
 
-🚀 Aspiring Software Developer | 💻 Passionate about building clean & scalable applications  
+Software Developer | Passionate about building clean & scalable applications  
 
 I enjoy turning ideas into real-world projects and continuously improving my skills by building, learning, and contributing.
 
