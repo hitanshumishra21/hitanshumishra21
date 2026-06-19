@@ -1,61 +1,137 @@
-# Hi, I'm Hitanshu Kumar Mishra 👋
+# Hi 👋, I'm Hitanshu Kumar Mishra
 
-Software Developer | Passionate about building clean & scalable applications  
+### Full Stack Developer | MERN Stack | Java DSA | Backend Engineering Enthusiast
 
-I enjoy turning ideas into real-world projects and continuously improving my skills by building, learning, and contributing.
+I am a Computer Science Engineering student passionate about building scalable web applications, designing efficient backend systems, and solving real-world problems through software. I enjoy transforming ideas into production-ready solutions while continuously improving my development and problem-solving skills.
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Student / Developer 
-- 🌱 Currently learning: **MERN**
-- 🛠️ Interested in: **Web Development / Backend / AI**
-- 🎯 Goal: Becoming a professional software engineer
+## 🚀 About Me
+
+* 🎓 B.Tech CSE Student at Parul University, Gujarat
+* 💻 Full Stack Web Developer specializing in MERN Stack
+* 🌱 Currently exploring Backend Engineering, Cloud Computing, and System Design
+* 🧠 Practicing Data Structures & Algorithms in Java
+* ⚡ Interested in Web Development, AI Applications, and Scalable Systems
+* 🎯 Aspiring Software Engineer focused on building impactful products
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages**
-- HTML, CSS, JavaScript  
-- Java / Python / C
 
-**Frameworks & Tools**
-- Flask, Node.js, Express.js 
-- Git, GitHub  
-- VS Code
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Tools & Platforms
+
+Git • GitHub • VS Code • Render • Vercel • Netlify • AWS
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **AgriNova – AI Assisted Farming** –AgriNova is an AI-powered farming assistant that analyzes soil and environmental conditions to recommend the most suitable crops for cultivation. The system integrates machine learning models, weather intelligence, and real-time data processing to support data-driven agricultural decisions.
-  **Tech Stack**: Flask, Scikit-learn, XGBoost, JavaScript, PostgreSQL
-  
-  👉 **Status**: Ongoing!  
-  👉 **Demo**: https://agrinova-ai-farming-assistant.onrender.com 
 
-- 🔹 **Parking Management System** – A full-stack smart parking platform designed to manage vehicle entry, exit, and parking slot allocation in real time. The system provides efficient parking operations, dashboard reporting, and scalable slot management through a robust REST API architecture.
-  **Tech Stack**: MongoDB, Express.js, Node.js, JavaScript
+### 🚗 Smart Parking Management System
 
-  👉 **Status**: In Progress!
-  
-- 🔹 **Fit Nation** – Fit-Nation is a logic-driven fitness analyzer that cuts through the noise of the fitness industry to provide you with raw, honest, and actionable training advice    based on your current life constraints.
-  
-  👉 **Status**: Completed!  
-  👉 **Live**: https://fit-nation-1.vercel.app/ 
+Full-stack parking platform built using MongoDB, Express.js, Node.js, and JavaScript.
 
-- 🔹 **IntelliPath: AI-Based Career Recommendation & Dynamic Roadmap Generation System** – IntelliPath is a career guidance system that helps students discover suitable CSE job roles using simple, non-technical self-assessment questions.
-Based on user responses, it recommends a realistic domain (Development, AI/ML, Cloud, Cybersecurity, Blockchain, IoT) along with a personalized learning roadmap.
+**Highlights**
 
-  👉 **Status**: In Progress!  
+* Real-time parking slot allocation and tracking
+* RESTful API architecture
+* Admin & User dashboards
+* MongoDB-based data management
+* MVC architecture for maintainability
 
+**Tech Stack:** MongoDB • Express.js • Node.js • JavaScript
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/hitanshu-kumar-mishra-435563302  
-- Portfolio: https://hm-profile.vercel.app/  
-- Email: hitanshumishra2005@gmail.com
+### 🌾 AgriNova – AI Assisted Farming
+
+AI-powered crop recommendation platform that analyzes soil and environmental conditions to suggest suitable crops.
+
+**Highlights**
+
+* Machine Learning based crop prediction
+* Weather-aware recommendations
+* REST API integration
+* Modular Flask backend
+
+**Tech Stack:** Flask • Scikit-Learn • XGBoost • PostgreSQL
+
+🔗 Live Demo: https://agrinova-ai-farming-assistant.onrender.com
 
 ---
 
-⭐️ Feel free to check out my repositories and connect with me!
+### 💪 Fit-Nation: The Brutally Honest Fitness Engine
+
+A rule-based fitness decision engine that evaluates user constraints and provides realistic workout recommendations.
+
+**Highlights**
+
+* Logic-driven analysis
+* Personalized fitness recommendations
+* Constraint-based decision engine
+* Interactive web interface
+
+**Tech Stack:** HTML • CSS • JavaScript • Flask
+
+🔗 Live Demo: https://fit-nation-1.vercel.app/
+
+---
+
+### 🎯 IntelliPath – Career Guidance System
+
+Career recommendation platform that identifies suitable CSE domains and generates personalized learning roadmaps.
+
+**Highlights**
+
+* Dynamic career recommendation engine
+* Personalized roadmap generation
+* Flask-powered backend
+* Structured database design
+
+**Tech Stack:** Flask • MySQL • JavaScript
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitanshumishra21\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshumishra21\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: [www.linkedin.com/in/hitanshu-kumar-mishra-435563302](http://www.linkedin.com/in/hitanshu-kumar-mishra-435563302)
+
+🌐 Portfolio: https://hm-profile.vercel.app
+
+📧 Email: [hitanshumishra2005@gmail.com](mailto:hitanshumishra2005@gmail.com)
+
+---
+
+⭐ Building projects, learning continuously, and striving to become a better engineer every day.
