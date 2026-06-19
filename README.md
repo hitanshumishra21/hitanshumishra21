@@ -61,6 +61,7 @@ I am a Computer Science Engineering student passionate about building scalable w
 
 </p>
 
+---
 
 ## 📌 Featured Projects
 
