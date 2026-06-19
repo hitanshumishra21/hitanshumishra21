@@ -21,33 +21,46 @@ I am a Computer Science Engineering student passionate about building scalable w
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,c" />
+</p>
 
-### Frontend
+### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-### Backend
+### Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
 ### Tools & Platforms
 
-Git • GitHub • VS Code • Render • Vercel • Netlify • AWS
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,netlify" />
+</p>
 
----
+### Core Concepts
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* REST API Development
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+* Software Engineering
+
+</p>
+
 
 ## 📌 Featured Projects
 
