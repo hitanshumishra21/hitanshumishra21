@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hitanshu Kumar Mishra
 
-### Full Stack Developer | MERN Stack | Java DSA | Backend Engineering Enthusiast
+### Full Stack Developer | MERN Stack | Java DSA 
 
 I am a Computer Science Engineering student passionate about building scalable web applications, designing efficient backend systems, and solving real-world problems through software. I enjoy transforming ideas into production-ready solutions while continuously improving my development and problem-solving skills.
 
@@ -127,14 +127,6 @@ Career recommendation platform that identifies suitable CSE domains and generate
 * Structured database design
 
 **Tech Stack:** Flask • MySQL • JavaScript
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitanshumishra21\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitanshumishra21\&layout=compact)
 
 ---
 
