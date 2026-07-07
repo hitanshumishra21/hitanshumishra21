@@ -67,7 +67,7 @@ I am a Computer Science Engineering student passionate about building scalable w
 
 ### 🚗 Smart Parking Management System
 
-Full-stack parking platform built using MongoDB, Express.js, Node.js, and JavaScript.
+Full-stack parking platform built using MongoDB, Express.js, React.js, and Node.js.
 
 **Highlights**
 
@@ -77,7 +77,9 @@ Full-stack parking platform built using MongoDB, Express.js, Node.js, and JavaSc
 * MongoDB-based data management
 * MVC architecture for maintainability
 
-**Tech Stack:** MongoDB • Express.js • Node.js • JavaScript
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js
+
+🔗 Live Demo: https://smart-parking-management-system-k5au.onrender.com
 
 ---
 
@@ -109,7 +111,7 @@ A rule-based fitness decision engine that evaluates user constraints and provide
 * Constraint-based decision engine
 * Interactive web interface
 
-**Tech Stack:** HTML • CSS • JavaScript • Flask
+**Tech Stack:** HTML • CSS • JavaScript 
 
 🔗 Live Demo: https://fit-nation-1.vercel.app/
 
