@@ -94,7 +94,7 @@ AI-powered crop recommendation platform that analyzes soil and environmental con
 * REST API integration
 * Modular Flask backend
 
-**Tech Stack:** Flask • Scikit-Learn • XGBoost • PostgreSQL
+**Tech Stack:** Flask • Scikit-Learn • XGBoost
 
 🔗 Live Demo: https://agrinova-ai-farming-assistant.onrender.com
 
