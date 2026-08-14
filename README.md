@@ -46,7 +46,7 @@ I am a Computer Science Engineering student and Full Stack & Machine Learning De
 
 ### Tools & Platforms
 
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" /> <img src="https://cdn.simpleicons.org/vercel/000000" height="48" /> <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" /> <img src="https://cdn.simpleicons.org/neon/000000" height="48" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" /> <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="48" /> <img src="https://cdn.simpleicons.org/render/46E3B7" height="48" /> <img src="https://cdn.simpleicons.org/neon/FFFFFF" height="48" /> </p>
 
 ### AI / Machine Learning
 
