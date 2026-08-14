@@ -44,6 +44,12 @@ I am a Computer Science Engineering student and Full Stack & Machine Learning De
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,render" />
+</p>
+
 ### AI / Machine Learning
 
 * Scikit-Learn
@@ -54,12 +60,6 @@ I am a Computer Science Engineering student and Full Stack & Machine Learning De
 * Data Analysis
 * Feature Engineering
 * ML Model Integration
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws,vercel,render" />
-</p>
 
 ### Core Concepts
 
